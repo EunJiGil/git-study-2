@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+# 성균관대
 
 def main():
     print("Hello, world!"
